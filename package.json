@@ -1,0 +1,30 @@
+{
+  "name": "pocket-signal-bot",
+  "version": "1.0.0",
+  "description": "Manual Pocket Option style trading signal bot using Deriv WebSocket API",
+  "main": "signal_bot.py",
+  "scripts": {
+    "start": "python3 signal_bot.py",
+    "dev": "python3 signal_bot.py",
+    "lint": "echo 'No linting configured yet'",
+    "test": "echo 'No tests configured yet'"
+  },
+  "keywords": [
+    "trading-bot",
+    "deriv-api",
+    "pocket-option",
+    "otc",
+    "python"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<your-username>/pocket-signal-bot.git"
+  },
+  "engines": {
+    "python": ">=3.9"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
